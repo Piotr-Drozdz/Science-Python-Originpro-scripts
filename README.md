@@ -13,7 +13,8 @@ The **`originpro`** Python library provides an interface to Origin, and it is us
 Each folder contains a single script along with its own README describing its functionality and usage examples.
 
 Example folders:  
-- Linear-background-substract – subtracts linear background from spectra based on first and last points of each column
+- `Linear-background-substract/` – subtracts linear background from spectra based on first and last points of each column
+- `OPO-decoder/` – decodes legacy measurement data directly in Origin (using originpro) and outputs an Origin worksheet
 
 ## Notes
 
