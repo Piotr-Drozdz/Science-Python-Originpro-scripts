@@ -15,6 +15,7 @@ Each folder contains a single script along with its own README describing its fu
 Example folders:  
 - `Linear-background-substract/` – subtracts linear background from spectra based on first and last points of each column
 - `OPO-decoder/` – decodes legacy measurement data directly in Origin (using originpro) and outputs an Origin worksheet
+- `Data-for-Waterfall-log/` – scales successive spectra from an Origin worksheet for clear visualization in a waterfall plot (using logarithmic multiplication)
 
 ## Notes
 
