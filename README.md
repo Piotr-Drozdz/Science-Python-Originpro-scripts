@@ -16,6 +16,7 @@ Example folders:
 - `Linear-background-substract/` – subtracts linear background from spectra based on first and last points of each column
 - `OPO-decoder/` – decodes legacy measurement data directly in Origin (using originpro) and outputs an Origin worksheet
 - `Data-for-Waterfall-log/` – scales successive spectra from an Origin worksheet for clear visualization in a waterfall plot (using logarithmic multiplication)
+- `Cycle-Denoiser/` – removes outliers (e. g. the so called "muons") and produces averaged, cleaned spectra, including energy-normalized spectra (`Energy⁻⁶`) for ruby calibration. The spectra should be measured in cycles.
 
 ## Notes
 
